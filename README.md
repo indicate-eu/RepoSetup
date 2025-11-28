@@ -9,7 +9,7 @@ The Repository scope is to:
 3. It is NOT intended to support IaC for INDICATE central services. 
 4. It is NOT intended to for federated analysis or federated learning projects.
 
-In other words it is for
+In other words it is for:  
 ✅ Developing definitions of the Common Data Model  
 ✅ Use case development  
 ✅ INDICATE platform co-development  
