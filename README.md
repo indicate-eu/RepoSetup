@@ -3,6 +3,21 @@ Quick Setup Guide for INDICATE Repositories This package contains everything you
 
 ---
 
+The Repository scope is to:
+1. Communication of supporting work, such as minimal viable data set, use case development. 
+2. Allow INDICATE participants to collaborate and publish code to co-develop indicate. 
+3. It is NOT intended to support IaC for INDICATE central services. 
+4. It is NOT intended to for federated analysis or federated learning projects.
+
+In other words it is for
+✅ Developing definitions of the Common Data Model
+✅ Use case development
+✅ INDICATE platform co-development
+❌ NOT for IaC central services
+❌ NOT for study packages/research code
+
+---
+
 ## 📦 What's Included
 
 - **GETTING_STARTED.md** - 15-minute setup guide (start here!)
